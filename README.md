@@ -34,8 +34,11 @@ Illuminate the landscape of consumer spending by identifying prevalent expenditu
 The culmination of this project manifests in the development of three interactive dashboards using Power BI:
 
 1. **Demographic Analysis Dashboard**
-2. **Income Utilization Dashboard**
-3. **Spending Insights Dashboard**
+   ![Sample Image](Images/D_01.jpg)
+3. **Income Utilization Dashboard**
+   ![Sample Image](Images/D_02.jpg)
+5. **Spending Insights Dashboard**
+   ![Sample Image](Images/D_03.jpg)
 
 These dashboards visually present key insights derived from the analysis, facilitating a deeper understanding of customer demographics and spending behavior.
 
