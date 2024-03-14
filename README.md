@@ -13,7 +13,7 @@ This project aims to develop a comprehensive dashboard using Power BI to analyze
 
 ## Data Collection and Preparation
 
-The raw data for this analysis was obtained from [CodeBasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+The raw data for this analysis was obtained from [CodeBasics 8th Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 . It includes demographic information such as age, gender, occupation, income, and spending details. The data was cleaned and processed using Python and SQL to ensure accuracy and consistency.
 
 ## Analysis
